@@ -1,0 +1,2753 @@
+2025-08-01 22:29:00,550 - parser - ERROR - Spacy model 'en_core_web_md' not found. Please install it first.
+2025-08-01 22:32:45,208 - embedding - INFO - Gemini configured successfully
+2025-08-01 22:32:45,210 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 22:32:45,210 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 22:32:49,847 - embedding - INFO - Local embedding model loaded
+2025-08-01 22:35:11,616 - embedding - INFO - Gemini configured successfully
+2025-08-01 22:35:11,618 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 22:35:11,619 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 22:35:16,206 - embedding - INFO - Local embedding model loaded
+2025-08-01 22:35:16,880 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 22:41:43,929 - embedding - INFO - Gemini configured successfully
+2025-08-01 22:41:43,932 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 22:41:43,933 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 22:41:48,858 - embedding - INFO - Local embedding model loaded
+2025-08-01 22:41:49,324 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 22:58:41,612 - main - ERROR - Failed to process document ee6f8068-db4b-468f-9a95-9fb4119d64d6: read of closed file
+2025-08-01 22:59:42,096 - main - ERROR - Failed to process document 253f575f-fa88-418f-b2da-d89bed9b02d7: read of closed file
+2025-08-01 23:03:40,207 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:03:40,210 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:03:40,211 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:03:46,127 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:03:46,593 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 23:04:07,174 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:04:07,177 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:04:07,178 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:04:11,291 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:04:11,726 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 23:10:11,752 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:10:11,755 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:10:11,756 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:10:16,375 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:10:16,830 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 23:10:33,395 - parser - INFO - Processing document: temp_EDLHLGA23009V012223.pdf
+2025-08-01 23:10:39,479 - main - INFO - Successfully processed document 9e1075cf-932e-4ed3-8478-01bde211aacb
+2025-08-01 23:11:41,677 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:11:41,680 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:11:41,681 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:11:46,476 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:11:46,991 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 23:13:15,058 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:13:15,060 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:13:15,060 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:13:19,712 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:13:20,222 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-01 23:14:08,555 - parser - INFO - Processing document: temp_BAJHLIP23020V012223.pdf
+2025-08-01 23:14:52,563 - main - INFO - Successfully processed document 80af4373-4d4d-45db-af11-63de70038617
+2025-08-01 23:44:17,040 - embedding - INFO - Gemini configured successfully
+2025-08-01 23:44:17,043 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-01 23:44:17,043 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-01 23:44:21,495 - embedding - INFO - Local embedding model loaded
+2025-08-01 23:44:21,939 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 20:00:13,967 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 20:00:13,971 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 20:00:13,972 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 20:00:18,910 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 20:00:19,878 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 20:03:32,548 - app.parser - INFO - Processing document: temp_EDLHLGA23009V012223.pdf
+2025-08-02 20:03:32,583 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-02 20:03:32,584 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-02 20:03:32,795 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-02 20:03:32,795 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-02 20:03:38,083 - main - INFO - Successfully processed document 87caf0bd-25a6-4550-a1ec-d0bfe5cd888a
+2025-08-02 20:22:20,870 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 20:22:20,872 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 20:22:20,873 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 20:22:26,212 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 20:22:26,821 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 20:23:22,640 - app.parser - INFO - Processing document: temp_ICIHLIP22012V012223.pdf
+2025-08-02 20:23:52,712 - main - INFO - Successfully processed document b705c06f-2976-4008-86e8-8a7d865b5d34
+2025-08-02 20:52:00,392 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 20:52:00,401 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 20:52:00,402 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 20:52:05,112 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 20:52:05,967 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 20:53:25,581 - app.parser - INFO - Processing document: temp_ICIHLIP22012V012223.pdf
+2025-08-02 20:53:57,123 - main - INFO - Successfully processed document 4c5dc38b-287f-45e5-85d4-6b0cd5771172
+2025-08-02 21:34:04,182 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 21:34:04,185 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 21:34:04,185 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 21:34:08,980 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 21:34:09,571 - app.query - ERROR - Initialization failed: No module named 'vectordb'
+Traceback (most recent call last):
+  File "G:\Project insurence\backend\app\query.py", line 56, in __init__
+    from vectordb import InsuranceVectorDB
+ModuleNotFoundError: No module named 'vectordb'
+2025-08-02 21:38:25,373 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 21:38:25,375 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 21:38:25,375 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 21:38:29,759 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 21:38:34,285 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-02 21:38:34,285 - app.query - ERROR - Initialization failed: Missing required database files in insurance_vector_db
+Traceback (most recent call last):
+  File "G:\Project insurence\backend\app\query.py", line 58, in __init__
+    self.db.load("insurance_vector_db")
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Project insurence\backend\app\vectordb.py", line 261, in load
+    raise IOError(f"Missing required database files in {path}")
+OSError: Missing required database files in insurance_vector_db
+2025-08-02 21:49:40,880 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 21:49:40,882 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 21:49:40,883 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 21:49:45,848 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 21:49:50,437 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-02 21:49:51,225 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 22:36:02,647 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 22:36:02,650 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 22:36:02,651 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 22:36:07,906 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 22:36:12,440 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-02 22:36:13,070 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 22:36:50,549 - app.parser - INFO - Processing document: temp_ICIHLIP22012V012223.pdf
+2025-08-02 22:37:34,155 - main - INFO - Successfully processed document 86cf9b19-5432-4a77-9344-f6224d16f513
+2025-08-02 22:38:56,859 - app.query - WARNING - Search failed for 'knee replacement surgery cost in Mumbai for a 52-year-old female': Database not initialized
+2025-08-02 22:38:56,860 - app.query - WARNING - Search failed for 'average cost of knee arthroscopy in Mumbai for a 52-year-old female': Database not initialized
+2025-08-02 22:38:56,860 - app.query - WARNING - Search failed for 'insurance coverage for knee surgery in Mumbai for a 52-year-old female': Database not initialized
+2025-08-02 22:38:56,860 - app.query - WARNING - Search failed for 'typical claim amount for knee surgery in Mumbai for a 52-year-old female': Database not initialized
+2025-08-02 22:38:56,860 - app.query - WARNING - Search failed for 'best hospitals in Mumbai for knee surgery and their associated costs': Database not initialized
+2025-08-02 22:38:56,861 - app.query - WARNING - Search failed for 'pre-authorization requirements for knee surgery under health insurance in Mumbai': Database not initialized
+2025-08-02 22:38:56,861 - app.query - WARNING - Search failed for '52-year-old female, Mumbai resident, knee surgery, claim amount estimation': Database not initialized
+2025-08-02 22:38:56,861 - app.query - WARNING - Search failed for 'medical bills and claim process for knee surgery in Mumbai for a 52-year-old female': Database not initialized
+2025-08-02 22:44:49,706 - app.query - WARNING - Search failed for 'Claim amount of 300000 INR for a 32-year-old female undergoing heart surgery.  What is the coverage?': Database not initialized
+2025-08-02 22:44:49,707 - app.query - WARNING - Search failed for '32-year-old female patient, heart surgery, claim amount 300000 INR.  Policy details needed for claim assessment.': Database not initialized
+2025-08-02 22:44:49,707 - app.query - WARNING - Search failed for 'Investigate claim for heart surgery (300000 INR) for a 32-year-old female.  Determine policy coverage and potential exclusions.': Database not initialized
+2025-08-02 22:44:49,707 - app.query - WARNING - Search failed for 'Verify coverage for a 300000 INR claim related to heart surgery performed on a 32-year-old female patient.  Specify policy number and details.': Database not initialized
+2025-08-02 22:44:49,708 - app.query - WARNING - Search failed for 'Assess the validity of a 300000 INR claim for heart surgery on a 32-year-old female.  Include pre-authorization details if applicable.': Database not initialized
+2025-08-02 22:48:04,392 - app.query - WARNING - Search failed for 'Claim amount of 300000 INR for a 32-year-old female undergoing heart surgery.  What is the coverage?': Database not initialized
+2025-08-02 22:48:04,393 - app.query - WARNING - Search failed for '32-year-old female patient, heart surgery, claim amount 300000 INR.  Policy details needed for claim assessment.': Database not initialized
+2025-08-02 22:48:04,394 - app.query - WARNING - Search failed for 'Investigate claim of 300000 INR for heart surgery on a 32-year-old female.  Determine policy coverage and potential exclusions.': Database not initialized
+2025-08-02 22:48:04,395 - app.query - WARNING - Search failed for 'Verify coverage for a 300000 INR claim related to heart surgery performed on a 32-year-old female patient.  Specify diagnosis and policy details.': Database not initialized
+2025-08-02 22:48:04,395 - app.query - WARNING - Search failed for 'Assess the validity of a 300000 INR claim for heart surgery on a 32-year-old female.  Consider pre-existing conditions and policy terms.': Database not initialized
+2025-08-02 22:48:54,508 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+].
+2025-08-02 22:48:58,680 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+].
+2025-08-02 22:49:00,956 - app.query - WARNING - Claim extraction failed, using fallback: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-08-02 22:49:02,071 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+].
+2025-08-02 22:49:04,352 - app.query - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-02 22:51:17,110 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 22:51:17,112 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 22:51:17,113 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 22:51:22,166 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 22:51:26,964 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-02 22:51:27,563 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 22:52:32,018 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+].
+2025-08-02 22:52:35,790 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+].
+2025-08-02 22:52:38,063 - app.query - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-08-02 22:52:38,064 - app.query - WARNING - Search failed for '{"query": "32 female heartsurgery 300000 claim amount mumbai i have my report"}': Database not initialized
+2025-08-02 22:52:39,208 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+].
+2025-08-02 22:52:41,504 - app.query - ERROR - Decision failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-08-02 22:52:42,613 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+].
+2025-08-02 22:52:44,889 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-08-02 22:54:20,820 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 38
+}
+].
+2025-08-02 22:54:23,138 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-02 22:54:23,140 - app.query - WARNING - Search failed for '{"query": "32 female heartsurgery 300000 claim amount i have my report"}': Database not initialized
+2025-08-02 22:54:24,218 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 35
+}
+].
+2025-08-02 22:54:26,497 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-08-02 22:56:21,484 - app.embedding - INFO - Gemini configured successfully
+2025-08-02 22:56:21,486 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-02 22:56:21,486 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-02 22:56:26,459 - app.embedding - INFO - Local embedding model loaded
+2025-08-02 22:56:31,337 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-02 22:56:31,952 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-02 22:56:58,313 - app.query - WARNING - Search failed for 'Claim amount of 300000 INR for a 32-year-old female undergoing heart surgery.  What is the coverage?': Database not initialized
+2025-08-02 22:56:58,313 - app.query - WARNING - Search failed for '32-year-old female patient, heart surgery, claim amount 300000 INR.  Policy details needed for claim assessment.': Database not initialized
+2025-08-02 22:56:58,314 - app.query - WARNING - Search failed for 'Investigate claim of 300000 INR for heart surgery on a 32-year-old female.  Determine if pre-existing conditions apply.': Database not initialized
+2025-08-02 22:56:58,314 - app.query - WARNING - Search failed for 'Verify coverage for a 300000 INR claim related to heart surgery for a 32-year-old female.  Specify policy number and type.': Database not initialized
+2025-08-02 22:56:58,314 - app.query - WARNING - Search failed for 'Assess the validity of a 300000 INR claim for heart surgery performed on a 32-year-old female.  Include diagnosis and treatment details.': Database not initialized
+2025-08-02 23:18:03,319 - app.query - WARNING - Search failed for 'Claim amount of 300000 INR for a 32-year-old female undergoing heart surgery.  What is the coverage?': Database not initialized
+2025-08-02 23:18:03,326 - app.query - WARNING - Search failed for '32-year-old female patient, heart surgery, claim amount 300000 INR.  Policy details needed for claim assessment.': Database not initialized
+2025-08-02 23:18:03,327 - app.query - WARNING - Search failed for 'Investigate claim of 300000 INR for heart surgery on a 32-year-old female.  Determine if pre-existing conditions apply.': Database not initialized
+2025-08-02 23:18:03,327 - app.query - WARNING - Search failed for 'Review claim for heart surgery (300000 INR) for a 32-year-old female.  Specify diagnosis and policy details.': Database not initialized
+2025-08-02 23:18:03,327 - app.query - WARNING - Search failed for 'Assess the validity of a 300000 INR claim for heart surgery performed on a 32-year-old female patient.  Include policy terms and conditions.': Database not initialized
+2025-08-02 23:26:11,887 - app.query - WARNING - Search failed for 'Claim amount of 300000 INR for a 32-year-old female undergoing heart surgery.  What is the coverage?': Database not initialized
+2025-08-02 23:26:11,888 - app.query - WARNING - Search failed for '32-year-old female patient, heart surgery, claim amount 300000 INR.  Policy details needed for claim assessment.': Database not initialized
+2025-08-02 23:26:11,888 - app.query - WARNING - Search failed for 'Investigate claim of 300000 INR for heart surgery on a 32-year-old female.  Determine policy coverage and any applicable exclusions.': Database not initialized
+2025-08-02 23:26:11,888 - app.query - WARNING - Search failed for 'Verify coverage for a 300000 INR claim related to heart surgery performed on a 32-year-old female patient.  Specify diagnosis and policy details.': Database not initialized
+2025-08-02 23:26:11,889 - app.query - WARNING - Search failed for 'Assess the validity of a 300000 INR claim for heart surgery on a 32-year-old female.  Include details on pre-existing conditions and policy terms.': Database not initialized
+2025-08-02 23:26:35,630 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+].
+2025-08-02 23:26:39,459 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+].
+2025-08-02 23:26:41,734 - app.query - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-08-02 23:26:42,855 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+].
+2025-08-02 23:26:46,785 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+].
+2025-08-02 23:26:49,059 - app.query - WARNING - Claim extraction failed, using fallback: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-08-02 23:26:50,173 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+].
+2025-08-02 23:26:52,449 - app.query - WARNING - Query expansion failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-08-02 23:26:53,563 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+].
+2025-08-02 23:26:55,832 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-08-02 23:51:36,002 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+].
+2025-08-02 23:51:38,316 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-08-02 23:51:38,318 - app.query - WARNING - Search failed for '{"query": "32 female heartsurgery 300000 claim amount"}': Database not initialized
+2025-08-02 23:51:39,406 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+].
+2025-08-02 23:51:41,693 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-08-02 23:53:22,166 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 37
+}
+].
+2025-08-02 23:53:24,476 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2025-08-02 23:54:52,604 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+].
+2025-08-02 23:54:54,889 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-08-02 23:54:54,890 - app.query - WARNING - Search failed for '{"query": "32 female heartsurgery 300000 claim amount"}': Database not initialized
+2025-08-02 23:54:56,037 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+].
+2025-08-02 23:54:58,311 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-08-02 23:58:58,272 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+].
+2025-08-02 23:59:00,568 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-08-02 23:59:00,569 - app.query - WARNING - Search failed for '{"query": "32f heart sugery chennai 250000"}': Database not initialized
+2025-08-02 23:59:01,687 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+].
+2025-08-03 00:09:07,997 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+].
+2025-08-03 00:09:10,285 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-08-03 00:09:10,286 - app.query - WARNING - Search failed for '{"query": "32 f knee surgery chennai  semantic 12:08 AM"}': Database not initialized
+2025-08-03 00:09:11,405 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+].
+2025-08-03 00:09:13,680 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-08-03 00:10:52,262 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+].
+2025-08-03 00:10:54,542 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:10:54,542 - app.query - WARNING - Search failed for '{"query": "32f female knee surgery chennai"}': Database not initialized
+2025-08-03 00:10:55,646 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:11:42,405 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+].
+2025-08-03 00:11:44,684 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-08-03 00:11:44,685 - app.query - WARNING - Search failed for '{"query": "32f female knee surgery chennai"}': Database not initialized
+2025-08-03 00:11:45,826 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+].
+2025-08-03 00:36:25,492 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:36:25,493 - app.query - WARNING - Search failed for '{"query": "32 male knee surgery chennai"}': Database not initialized
+2025-08-03 00:36:25,774 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:37:36,904 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:37:36,904 - app.query - WARNING - Search failed for '{"query": "32 m knee surgery chennai 200000"}': Database not initialized
+2025-08-03 00:37:38,027 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:38:23,983 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:38:23,984 - app.query - WARNING - Search failed for '{"query": "32 m knee surgery chennai 200000"}': Database not initialized
+2025-08-03 00:38:25,103 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:39:10,749 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:39:10,750 - app.query - WARNING - Search failed for '{"query": "32 m knee surgery chennai 200000"}': Database not initialized
+2025-08-03 00:39:11,872 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:40:30,417 - app.query - WARNING - Classification failed, defaulting to general question: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 00:40:30,418 - app.query - WARNING - Search failed for '{"query": "32 m knee surgery chennai 200000"}': Database not initialized
+2025-08-03 00:40:31,543 - app.query - ERROR - General question processing failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-03 12:34:16,167 - app.embedding - INFO - Gemini configured successfully
+2025-08-03 12:34:16,171 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-03 12:34:16,171 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-03 12:34:22,250 - app.embedding - INFO - Local embedding model loaded
+2025-08-03 12:34:27,004 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-03 12:34:27,658 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-03 12:35:27,965 - app.query - WARNING - Search failed for '{"query": "32f male chennai apollo knee surgey"}': Database not initialized
+2025-08-03 12:42:11,427 - app.query - WARNING - Search failed for '{"query": "32f male chennai apollo knee surgey"}': Database not initialized
+2025-08-04 14:20:34,877 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 14:20:34,879 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 14:20:34,880 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 14:20:40,828 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 14:20:40,829 - app.query - ERROR - Initialization failed: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+Traceback (most recent call last):
+  File "G:\Project insurence\backend\app\query.py", line 40, in __init__
+    self.nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Project insurence\venv\Lib\site-packages\spacy\__init__.py", line 52, in load
+    return util.load_model(
+           ~~~~~~~~~~~~~~~^
+        name,
+        ^^^^^
+    ...<4 lines>...
+        config=config,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "G:\Project insurence\venv\Lib\site-packages\spacy\util.py", line 484, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-04 14:22:39,266 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 14:22:39,269 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 14:22:39,269 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 14:22:46,787 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 14:22:51,821 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 14:22:53,997 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 14:23:30,862 - app.query - WARNING - Search failed for '{"query": "32 female knee  surgery chennai apollo"}': Database not initialized
+2025-08-04 14:46:15,904 - main - INFO - Successfully connected to MongoDB
+2025-08-04 14:46:16,113 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 14:46:16,116 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 14:46:16,117 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 14:46:27,483 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 14:46:33,160 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 14:46:38,039 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 14:46:39,980 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 14:47:13,583 - app.query - WARNING - Search failed for '{"query": "32 female knee surgery chennai"}': Database not initialized
+2025-08-04 14:48:33,754 - app.query - WARNING - Search failed for 'knee surgery cost in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 14:48:33,755 - app.query - WARNING - Search failed for 'average cost of knee surgery in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 14:48:33,755 - app.query - WARNING - Search failed for 'insurance coverage for knee surgery in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 14:48:33,757 - app.query - WARNING - Search failed for 'best hospitals in Chennai for knee surgery and their associated costs': Database not initialized
+2025-08-04 14:48:33,757 - app.query - WARNING - Search failed for 'types of knee surgeries and their respective costs in Chennai': Database not initialized
+2025-08-04 14:48:33,757 - app.query - WARNING - Search failed for 'pre-authorization requirements for knee surgery insurance claims in Chennai': Database not initialized
+2025-08-04 14:48:33,758 - app.query - WARNING - Search failed for 'claim process for knee surgery in Chennai with [Insurance Company Name]': Database not initialized
+2025-08-04 14:48:33,758 - app.query - WARNING - Search failed for 'documents required for knee surgery insurance claim in Chennai': Database not initialized
+2025-08-04 14:48:33,758 - app.query - WARNING - Search failed for 'network hospitals for knee surgery in Chennai with [Insurance Company Name]': Database not initialized
+2025-08-04 14:48:33,759 - app.query - WARNING - Search failed for 'typical recovery time and associated costs after knee surgery in Chennai': Database not initialized
+2025-08-04 14:49:10,987 - app.query - WARNING - Search failed for '{"query": "32f female knee surgery chennai"}': Database not initialized
+2025-08-04 14:55:25,458 - main - INFO - Successfully connected to MongoDB
+2025-08-04 14:55:25,628 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 14:55:25,629 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 14:55:25,630 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 14:55:32,967 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 14:55:38,046 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 14:55:42,623 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 14:55:43,694 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:00:30,732 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:00:30,870 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:00:30,872 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:00:30,874 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:00:38,729 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:00:44,864 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 15:00:49,414 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 15:00:50,151 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:01:17,019 - app.query - WARNING - Search failed for 'Does my policy cover roof leaks?': Database not initialized
+2025-08-04 15:01:33,524 - app.query - WARNING - Search failed for 'auto insurance claim submission for $5000': Database not initialized
+2025-08-04 15:01:33,525 - app.query - WARNING - Search failed for 'process auto insurance claim of $5000': Database not initialized
+2025-08-04 15:01:33,525 - app.query - WARNING - Search failed for 'submit auto insurance claim, amount $5000': Database not initialized
+2025-08-04 15:01:33,525 - app.query - WARNING - Search failed for 'auto insurance claim status, claim amount $5000': Database not initialized
+2025-08-04 15:01:33,525 - app.query - WARNING - Search failed for 'auto insurance claim form, $5000 claim': Database not initialized
+2025-08-04 15:01:33,526 - app.query - WARNING - Search failed for 'required documents for $5000 auto insurance claim': Database not initialized
+2025-08-04 15:01:33,526 - app.query - WARNING - Search failed for 'auto insurance claim timeline for $5000 claim': Database not initialized
+2025-08-04 15:01:33,527 - app.query - WARNING - Search failed for 'auto insurance claim denial reasons, $5000 claim': Database not initialized
+2025-08-04 15:08:13,232 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:08:13,404 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:08:13,410 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:08:13,410 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:08:20,140 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:08:25,299 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 15:08:29,949 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 15:08:30,981 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:08:36,998 - app.query - WARNING - Search failed for '{"query": "32 f heart sugery  chennai"}': Database not initialized
+2025-08-04 15:17:31,818 - app.query - WARNING - Search failed for '{"query": "32 femail knee surgery chennai"}': Database not initialized
+2025-08-04 15:18:59,689 - app.parser - INFO - Processing document: temp_ICIHLIP22012V012223.pdf
+2025-08-04 15:20:23,948 - main - INFO - Successfully processed document 41c73934-f8c0-469b-a8a5-26cd23908bc8
+2025-08-04 15:21:06,130 - app.query - WARNING - Search failed for '{"query": "32f female knee surgery chennai"}': Database not initialized
+2025-08-04 15:27:27,741 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:27:27,943 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:27:27,945 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:27:27,945 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:27:34,850 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:27:40,619 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 15:27:45,285 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 15:27:46,056 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:29:03,793 - app.parser - INFO - Processing document: temp_BAJHLIP23020V012223.pdf
+2025-08-04 15:30:51,735 - main - INFO - Successfully processed document 4a6e44e4-c5a0-460d-8cc2-2a8ec982b014
+2025-08-04 15:35:57,579 - app.query - WARNING - Search failed for 'Cost of knee surgery in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 15:35:57,580 - app.query - WARNING - Search failed for 'Average cost of knee arthroscopy in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 15:35:57,580 - app.query - WARNING - Search failed for 'Cost of total knee replacement in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 15:35:57,581 - app.query - WARNING - Search failed for 'Knee surgery cost in Chennai with different types of insurance coverage': Database not initialized
+2025-08-04 15:35:57,581 - app.query - WARNING - Search failed for 'Insurance coverage for knee surgery in Chennai for a 32-year-old female': Database not initialized
+2025-08-04 15:35:57,581 - app.query - WARNING - Search failed for 'List of hospitals in Chennai performing knee surgery and their associated costs': Database not initialized
+2025-08-04 15:35:57,582 - app.query - WARNING - Search failed for 'Pre-authorization process for knee surgery under health insurance in Chennai': Database not initialized
+2025-08-04 15:35:57,582 - app.query - WARNING - Search failed for 'Claim process for knee surgery in Chennai with [Specific Insurance Company Name]': Database not initialized
+2025-08-04 15:35:57,582 - app.query - WARNING - Search failed for 'Doctors specializing in knee surgery in Chennai and their fees': Database not initialized
+2025-08-04 15:35:57,582 - app.query - WARNING - Search failed for 'Typical recovery time and associated costs after knee surgery in Chennai': Database not initialized
+2025-08-04 15:36:23,500 - app.query - WARNING - Search failed for '{"query": "knee surgery in chennai 32 female  semantic 03:35 PM"}': Database not initialized
+2025-08-04 15:39:35,380 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:39:35,616 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:39:35,619 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:39:35,619 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:39:41,304 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:39:46,419 - app.query - INFO - Successfully connected to MongoDB
+2025-08-04 15:39:51,466 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 15:39:53,109 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:40:50,331 - app.query - WARNING - Search failed for 'Does my policy cover roof leaks?': Database not initialized
+2025-08-04 15:51:36,804 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:51:37,027 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:51:37,030 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:51:37,031 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:51:43,993 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:51:48,832 - app.query - INFO - MongoDB connection established
+2025-08-04 15:51:49,763 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:51:49,772 - app.query - ERROR - Processing failed: 'InsuranceQueryProcessor' object has no attribute '_classify_input'
+2025-08-04 15:52:16,832 - app.query - ERROR - Processing failed: 'InsuranceQueryProcessor' object has no attribute '_classify_input'
+2025-08-04 15:52:20,149 - app.query - ERROR - Processing failed: 'InsuranceQueryProcessor' object has no attribute '_classify_input'
+2025-08-04 15:56:53,198 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:56:53,354 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:56:53,356 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:56:53,357 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:57:01,966 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:57:07,339 - app.query - INFO - MongoDB connection established
+2025-08-04 15:57:08,411 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:58:02,406 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:58:02,584 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:58:02,587 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:58:02,587 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:58:10,116 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:58:15,660 - app.query - INFO - MongoDB connection established
+2025-08-04 15:58:17,082 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:58:36,780 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:58:37,071 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:58:37,073 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:58:37,074 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:58:43,966 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:58:50,605 - app.query - INFO - MongoDB connection established
+2025-08-04 15:58:52,246 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:59:10,813 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:59:10,971 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:59:10,972 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:59:10,973 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 15:59:17,342 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 15:59:23,052 - app.query - INFO - MongoDB connection established
+2025-08-04 15:59:23,851 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 15:59:42,415 - main - INFO - Successfully connected to MongoDB
+2025-08-04 15:59:42,575 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 15:59:42,576 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 15:59:42,577 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 16:00:52,196 - main - INFO - Successfully connected to MongoDB
+2025-08-04 16:00:52,364 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 16:00:52,367 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 16:00:52,367 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 16:00:58,115 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 16:01:03,183 - app.query - INFO - MongoDB connection established
+2025-08-04 16:01:04,381 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 16:05:00,359 - main - INFO - Successfully connected to MongoDB
+2025-08-04 16:05:00,511 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 16:05:00,512 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 16:05:00,513 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 16:05:06,077 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 16:05:12,401 - app.query - INFO - MongoDB connection established
+2025-08-04 16:05:15,354 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 16:07:20,838 - main - INFO - Successfully connected to MongoDB
+2025-08-04 16:07:21,002 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 16:07:21,004 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 16:07:21,005 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 16:07:35,346 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 16:07:40,197 - app.query - INFO - MongoDB connection established
+2025-08-04 16:07:42,572 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 16:19:01,328 - app.parser - INFO - Processing document: temp_ICIHLIP22012V012223.pdf
+2025-08-04 16:19:57,853 - main - INFO - Successfully processed document 40273b52-fa47-4bdd-b4c6-92390a384494
+2025-08-04 16:21:51,620 - app.query - WARNING - Classification failed, defaulting to general question: 'Input to ChatPromptTemplate is missing variables {\'\\n            "input_type"\'}.  Expected: [\'\\n            "input_type"\', \'input\'] Received: [\'input\']\nNote: if you intended {\n            "input_type"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n            "input_type"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-08-04 16:21:51,621 - app.query - ERROR - Question processing failed: 'Input to ChatPromptTemplate is missing variables {\'\\n            "question_type"\'}.  Expected: [\'\\n            "question_type"\', \'context\', \'question\'] Received: [\'question\', \'context\']\nNote: if you intended {\n            "question_type"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n            "question_type"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-08-04 16:22:26,559 - app.query - WARNING - Classification failed, defaulting to general question: 'Input to ChatPromptTemplate is missing variables {\'\\n            "input_type"\'}.  Expected: [\'\\n            "input_type"\', \'input\'] Received: [\'input\']\nNote: if you intended {\n            "input_type"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n            "input_type"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-08-04 16:22:26,560 - app.query - ERROR - Question processing failed: 'Input to ChatPromptTemplate is missing variables {\'\\n            "question_type"\'}.  Expected: [\'\\n            "question_type"\', \'context\', \'question\'] Received: [\'question\', \'context\']\nNote: if you intended {\n            "question_type"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n            "question_type"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-08-04 16:27:21,084 - main - INFO - Successfully connected to MongoDB
+2025-08-04 16:27:21,244 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 16:27:21,247 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 16:27:21,248 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 16:27:31,284 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 16:27:36,232 - app.query - INFO - MongoDB connection established
+2025-08-04 16:27:38,039 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 17:24:49,689 - main - INFO - Successfully connected to MongoDB
+2025-08-04 17:24:50,148 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 17:24:50,154 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 17:24:50,154 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 17:24:55,552 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 17:25:00,211 - app.query - INFO - MongoDB connection established
+2025-08-04 17:25:01,883 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 17:26:52,715 - main - INFO - Successfully connected to MongoDB
+2025-08-04 17:26:52,893 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 17:26:52,895 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 17:26:52,895 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 17:26:58,353 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 17:26:59,728 - app.query - ERROR - Initialization failed: No module named 'vectordb'
+Traceback (most recent call last):
+  File "G:\Project insurence\backend\app\query.py", line 52, in __init__
+    from vectordb import InsuranceVectorDB
+ModuleNotFoundError: No module named 'vectordb'
+2025-08-04 17:27:42,184 - main - INFO - Successfully connected to MongoDB
+2025-08-04 17:27:42,391 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 17:27:42,393 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 17:27:42,394 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 17:27:47,095 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 17:27:52,688 - app.vectordb - WARNING - Could not load cache: [Errno 2] No such file or directory: 'embedding_cache.pkl'
+2025-08-04 17:27:52,689 - app.query - ERROR - Initialization failed: Missing required database files in insurance_vector_db
+Traceback (most recent call last):
+  File "G:\Project insurence\backend\app\query.py", line 54, in __init__
+    self.db.load("insurance_vector_db")
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Project insurence\backend\app\vectordb.py", line 261, in load
+    raise IOError(f"Missing required database files in {path}")
+OSError: Missing required database files in insurance_vector_db
+2025-08-04 17:29:07,030 - main - INFO - Successfully connected to MongoDB
+2025-08-04 17:29:07,397 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 17:29:07,404 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 17:29:07,404 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 17:29:13,609 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 17:29:18,295 - app.query - INFO - MongoDB connection established
+2025-08-04 17:29:19,563 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 17:36:52,927 - main - INFO - Successfully connected to MongoDB
+2025-08-04 17:36:53,070 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 17:36:53,073 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 17:36:53,073 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 17:36:58,013 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 17:37:03,569 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 18:20:01,381 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+].
+2025-08-04 18:20:03,670 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-04 18:21:30,829 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+].
+2025-08-04 18:21:33,133 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+2025-08-04 18:22:32,640 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+].
+2025-08-04 18:22:34,941 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-04 18:24:08,546 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+].
+2025-08-04 18:24:10,846 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-04 18:24:47,593 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+].
+2025-08-04 18:24:49,893 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-08-04 18:42:15,221 - main - INFO - Successfully connected to MongoDB
+2025-08-04 18:42:15,393 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 18:42:15,396 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 18:42:15,396 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 18:42:20,856 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 18:42:26,596 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 18:42:49,199 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+].
+2025-08-04 18:42:51,496 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-08-04 18:43:46,711 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+].
+2025-08-04 18:43:49,019 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-08-04 18:44:57,811 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+].
+2025-08-04 18:45:00,121 - app.query - WARNING - Classification failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-08-04 18:47:12,510 - main - INFO - Successfully connected to MongoDB
+2025-08-04 18:47:12,649 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 18:47:12,651 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 18:47:12,652 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 18:47:17,864 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 18:47:23,696 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 18:47:34,152 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:47:35,660 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:48:12,395 - main - INFO - Successfully connected to MongoDB
+2025-08-04 18:48:12,552 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 18:48:12,553 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 18:48:12,554 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 18:48:17,591 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 18:48:23,268 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 18:49:27,857 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:50:15,168 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:50:42,032 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:50:43,421 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:51:46,696 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:51:46,985 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:51:57,804 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:51:58,092 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:52:58,299 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:52:58,583 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:53:41,643 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:53:41,922 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:54:24,801 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 18:54:25,077 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:16:05,899 - main - INFO - Successfully connected to MongoDB
+2025-08-04 22:16:06,144 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 22:16:06,149 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 22:16:06,149 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 22:16:11,161 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 22:16:17,376 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 22:18:01,454 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:18:03,009 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:18:57,532 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:18:57,806 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:29:03,588 - main - INFO - Successfully connected to MongoDB
+2025-08-04 22:29:03,751 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 22:29:03,755 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 22:29:03,755 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 22:29:09,028 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 22:29:14,660 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 22:29:33,287 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:29:34,780 - app.query - WARNING - MongoDB vector search failed for '27 male heart surgery chennai 230000 6 months policy': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:29:55,217 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:29:55,486 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:31:41,729 - main - INFO - Successfully connected to MongoDB
+2025-08-04 22:31:41,912 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 22:31:41,914 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 22:31:41,914 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 22:31:46,925 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 22:31:52,900 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 22:31:53,285 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:31:54,757 - app.query - WARNING - MongoDB vector search failed for '{"query": "2025-08-04 22:29:55,217 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: \"API_KEY_INVALID\" domain: \"googleapis.com\" metadata {   key: \"service\"   value: \"generativelanguage.googleapis.com\" } , locale: \"en-US\" message: \"API Key not found. Please pass a valid API key.\" ] 2025-08-04 22:29:55,486 - app.query - WARNING - MongoDB vector search failed for '{\"query\": \"27 male heart surgery chennai 230000 6 months policy\"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: \"API_KEY_INVALID\" domain: \"googleapis.com\" metadata {   key: \"service\"   value: \"generativelanguage.googleapis.com\" } , locale: \"en-US\" message: \"API Key not found. Please pass a valid API key.\""}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:32:59,374 - app.query - WARNING - Classification failed: Invalid argument provided to Gemini: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:32:59,647 - app.query - WARNING - MongoDB vector search failed for '{"query": "27 male heart surgery chennai 230000 6 months policy"}': Error embedding content: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-08-04 22:34:48,436 - main - INFO - Successfully connected to MongoDB
+2025-08-04 22:34:48,608 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 22:34:48,610 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 22:34:48,610 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 22:34:53,442 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 22:34:59,142 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 22:39:17,623 - main - INFO - Successfully connected to MongoDB
+2025-08-04 22:39:18,106 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 22:39:18,112 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 22:39:18,113 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 22:39:23,458 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 22:39:29,261 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-04 23:17:12,831 - main - INFO - Successfully connected to MongoDB
+2025-08-04 23:17:13,086 - app.embedding - INFO - Gemini configured successfully
+2025-08-04 23:17:13,088 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-04 23:17:13,089 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-04 23:17:18,326 - app.embedding - INFO - Local embedding model loaded
+2025-08-04 23:17:24,409 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 00:09:05,681 - main - INFO - Successfully connected to MongoDB
+2025-08-05 00:09:05,866 - app.embedding - INFO - Gemini configured successfully
+2025-08-05 00:09:05,869 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-05 00:09:05,869 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-05 00:09:11,158 - app.embedding - INFO - Local embedding model loaded
+2025-08-05 00:09:17,389 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 00:12:26,380 - main - INFO - Successfully connected to MongoDB
+2025-08-05 00:12:26,539 - app.embedding - INFO - Gemini configured successfully
+2025-08-05 00:12:26,541 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-05 00:12:26,542 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-05 00:12:32,342 - app.embedding - INFO - Local embedding model loaded
+2025-08-05 00:12:37,887 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 00:18:49,501 - main - ERROR - Document analysis failed: 'InsuranceQueryProcessor' object has no attribute '_extract_text_from_pdf'
+2025-08-05 00:19:01,969 - app.parser - INFO - Processing document: temp_HDFHLIP23024V072223.pdf
+2025-08-05 00:19:02,038 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,040 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,042 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,042 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,043 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,044 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,044 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,045 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,045 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,046 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,049 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,049 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,050 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,051 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,051 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,052 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,053 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,054 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,055 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,056 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,057 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,058 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,058 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,059 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,059 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,062 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,063 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,064 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,064 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,065 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,066 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,066 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,067 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,070 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,071 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,072 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,072 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,073 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:02,074 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,200 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,201 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,201 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,202 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,202 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,202 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,203 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,203 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,203 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,203 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,204 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,204 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,204 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,205 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,205 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,205 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,205 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,206 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,206 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,206 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,206 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,209 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,209 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,209 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,210 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,210 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,210 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,210 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,210 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,211 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,211 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,211 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,211 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,212 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,212 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,212 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,212 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,213 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:08,213 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-08-05 00:19:33,343 - main - INFO - Successfully processed document 256c4bca-cceb-49e3-9685-1410b2cea298
+2025-08-05 00:26:28,944 - main - INFO - Successfully connected to MongoDB
+2025-08-05 00:26:29,118 - app.embedding - INFO - Gemini configured successfully
+2025-08-05 00:26:29,120 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-05 00:26:29,120 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-05 00:26:34,700 - app.embedding - INFO - Local embedding model loaded
+2025-08-05 00:26:40,769 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 00:36:14,490 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+].
+2025-08-05 00:36:16,841 - app.query - WARNING - Fallback claim extraction: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-08-05 00:36:28,005 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+].
+2025-08-05 00:36:30,358 - app.query - ERROR - Decision error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-08-05 12:01:48,066 - main - INFO - Successfully connected to MongoDB
+2025-08-05 12:01:48,249 - app.embedding - INFO - Gemini configured successfully
+2025-08-05 12:01:48,252 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-05 12:01:48,252 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-05 12:01:56,275 - app.embedding - INFO - Local embedding model loaded
+2025-08-05 12:02:03,021 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 12:04:04,810 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:04:05,308 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+].
+2025-08-05 12:04:07,680 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-08-05 12:05:16,415 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:05:16,793 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+].
+2025-08-05 12:05:19,127 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-08-05 12:06:06,745 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:06:07,065 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+].
+2025-08-05 12:06:09,408 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-08-05 12:07:03,399 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+].
+2025-08-05 12:07:05,788 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-08-05 12:07:05,789 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:07:06,892 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+].
+2025-08-05 12:07:09,336 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-08-05 12:09:30,367 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+].
+2025-08-05 12:09:32,730 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-08-05 12:09:32,731 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:09:33,780 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+].
+2025-08-05 12:09:36,156 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-08-05 12:09:52,630 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+].
+2025-08-05 12:09:55,014 - app.query - WARNING - Classification failed, defaulting to general question: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-08-05 12:09:55,015 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:09:56,115 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+].
+2025-08-05 12:09:58,397 - app.query - ERROR - General question processing failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-08-05 12:11:55,639 - main - INFO - Successfully connected to MongoDB
+2025-08-05 12:11:55,798 - app.embedding - INFO - Gemini configured successfully
+2025-08-05 12:11:55,800 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-05 12:11:55,801 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-08-05 12:12:02,139 - app.embedding - INFO - Local embedding model loaded
+2025-08-05 12:12:08,563 - main - WARNING - Could not create vector index: 'dict' object has no attribute 'in_transaction'
+2025-08-05 12:13:04,355 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:14:40,362 - app.query - WARNING - Search failed for '"What is the difference between floater and individual health policies?"': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:15:25,139 - app.query - WARNING - Search failed for 'Find insurance claim details for a 46-year-old male in Pune who underwent knee surgery costing Rs. 2,50,000 with a 3-month policy.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:15:25,139 - app.query - WARNING - Search failed for 'What is the coverage for a Rs. 2,50,000 knee surgery claim for a 46-year-old male in Pune under a 3-month policy?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:15:25,140 - app.query - WARNING - Search failed for 'Determine the reimbursement amount for a knee surgery (Rs. 2,50,000) claim by a 46-year-old male from Pune with a 3-month insurance policy.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:15:25,140 - app.query - WARNING - Search failed for 'Analyze the claim for a knee surgery (Rs. 2,50,000) by a 46-year-old male in Pune, considering a 3-month policy duration and potential exclusions.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:15:25,140 - app.query - WARNING - Search failed for 'Assess the eligibility and coverage of a 3-month insurance policy for a Rs. 2,50,000 knee surgery claim by a 46-year-old male resident of Pune.  Include details on pre-existing conditions and waiting periods.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,468 - app.query - WARNING - Search failed for 'Find insurance policies covering knee surgery for a 46-year-old male in Pune with a 3-month policy duration and a claimed amount of Rs. 2,50,000.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,469 - app.query - WARNING - Search failed for 'What are the typical costs associated with knee surgery in Pune for a 46-year-old male?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,469 - app.query - WARNING - Search failed for 'What is the average claim settlement time for knee surgery claims in Pune under a 3-month policy?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,470 - app.query - WARNING - Search failed for 'Are pre-existing conditions considered for knee surgery claims under 3-month policies in Pune?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,470 - app.query - WARNING - Search failed for 'What specific diagnostic tests and procedures are typically covered under insurance for knee surgery in Pune?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,470 - app.query - WARNING - Search failed for 'What are the common exclusions for knee surgery claims under 3-month policies in Pune?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,471 - app.query - WARNING - Search failed for 'What documentation is required to file a knee surgery claim in Pune under a 3-month policy?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,471 - app.query - WARNING - Search failed for 'What is the reimbursement process for knee surgery claims in Pune under a 3-month policy?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,471 - app.query - WARNING - Search failed for 'Are there any specific network hospitals in Pune preferred for knee surgery claims under this policy type?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:16:11,471 - app.query - WARNING - Search failed for 'What is the impact of a 3-month policy duration on the claim amount for knee surgery in Pune?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:23:11,128 - app.query - WARNING - Search failed for 'What is the difference between floater and individual health policies?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:34:21,082 - app.query - WARNING - Search failed for 'Claim for brain surgery costing Rs. 2,50,000 for a 46-year-old male in Hyderabad under a 6-month policy.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:34:21,083 - app.query - WARNING - Search failed for 'Coverage details for brain surgery under a 6-month insurance policy for a 46-year-old male in Hyderabad with a claimed amount of Rs. 2,50,000.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:34:21,084 - app.query - WARNING - Search failed for 'Verification of claim for Rs. 2,50,000 for brain surgery in Hyderabad for a 46-year-old male with a 6-month policy duration.  What specific diagnosis led to the surgery?': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:34:21,084 - app.query - WARNING - Search failed for 'Policy details and coverage assessment for a 6-month policy held by a 46-year-old male in Hyderabad, involving a brain surgery costing Rs. 2,50,000.  Include pre-existing condition exclusions.': 'InsuranceQueryProcessor' object has no attribute 'db'
+2025-08-05 12:34:21,084 - app.query - WARNING - Search failed for 'Determine the eligibility and payable amount for a Rs. 2,50,000 brain surgery claim under a 6-month policy for a 46-year-old male patient in Hyderabad.  Specify any applicable deductibles or co-pays.': 'InsuranceQueryProcessor' object has no attribute 'db'

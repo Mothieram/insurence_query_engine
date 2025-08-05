@@ -1,0 +1,21 @@
+python-dotenv
+langchain-core
+langchain-google-genai
+numpy
+tqdm
+pymongo
+spacy
+pdfplumber
+docx2txt
+python-pptx
+email-validator
+langchain-text-splitters
+langchain-community
+faiss-cpu
+PyPDF2
+requests
+google-generativeai
+sentence-transformers
+backoff
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_md
